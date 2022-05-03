@@ -1,0 +1,55 @@
+#todo-heading h1{
+   text-align: center;
+   color:gray
+}
+#todo{
+   padding: 150px;
+   padding-top: 10px;
+}
+#category{
+  width: 40%;
+  display: inline-block;
+}
+#dueDatePicker{
+width: 40%;
+display: inline-block;
+}
+.form-select{
+   font-size: .9rem !important
+}
+#buttons{
+   text-align: center;
+}
+.btn{
+   margin: 10px;
+}
+.horizontal-line{
+   width: 100%;
+   height: 1px;
+   background-color: rgb(134, 134, 134);
+}
+.task{
+   display: inline-block;
+   width: 60%;
+}
+.task p{
+   display: inline-block;
+   margin-left: 12px;
+}
+#list-category{
+display: inline-block;
+}
+#list-category button{
+   width: 100px;
+   color: aliceblue;
+  
+   }
+#list-date{
+   margin-left: 30px;
+}
+#buttons{
+   margin: 25px;
+}
+#list-date i{
+   margin-right: 8px;
+}
